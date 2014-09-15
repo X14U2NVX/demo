@@ -5,5 +5,5 @@ answer = raw_input('What is your quest? ')
 if answer != 'Holy Grail':
 	exit()
 answer = raw_input('What.... is your favorite color? ')
-if answer != 'Blue':
+if answer != 'Yellow':
 	exit()
